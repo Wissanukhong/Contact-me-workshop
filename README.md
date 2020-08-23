@@ -38,11 +38,18 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 ![alignment](img/alignment.png)
 
 **Grid**   
+Design a website with grid line that will make website clearly and attractive. Don't design sloppy at all.
+
+
 
 ![Grid](img/grid.png)
 
 ### Deseign Practise
+
 ### webflow development
+
 ### Client Project
+
 ### Freelancing
+
 ### Advanced
