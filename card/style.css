@@ -11,21 +11,44 @@ body {
 .my-card {
     background-color: #fff;
     padding: 0;
-    border: 1px solid black;
+    border: 1px solid #555;
+    border-radius: 10px;
+}
+
+.my-card div {
+    padding: 15px;
+    border-bottom: 1px solid black;
 }
 
 .my-card div:first-child {
     background-color: #f45d16;
     padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 .my-card div:last-child {
     background-color: #f45d16;
-    padding: 10px;
+    padding: 10px;    
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
-.bottom-link {
+.button-link-div {
     text-align: center;
+    font-size: 25px;
+}
+
+.button-link-div a:link,
+.button-link-div a:visited {
     text-decoration: none;
-    color: #555;
+    color: #000;
+    padding: 10px;
+    transition: background-color 0.5s;
+}
+
+.button-link-div a:hover,
+.button-link-div a:active {
+    background-color: #fff;
+    color: #000;
 }
