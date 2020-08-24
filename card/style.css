@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+}
+
+.my-card {
+    background-color: #fff;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.my-card div:first-child {
+    background-color: #f45d16;
+    padding: 10px;
+}
+
+.my-card div:last-child {
+    background-color: #f45d16;
+    padding: 10px;
+}
+
+.bottom-link {
+    text-align: center;
+    text-decoration: none;
+    color: #555;
+}
