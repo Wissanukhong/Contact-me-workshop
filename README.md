@@ -14,6 +14,8 @@ This course I will learn about wed design and how to create my beautiful website
       - [Alignment](#alignment)
       - [Grid](#grid)
       - [How to create grid guideline](#how-to-create-grid-guideline)
+      - [Layout is King](#layout-is-king)
+      - [Typography](#typography)
     - [Deseign Practise](#deseign-practise)
     - [webflow development](#webflow-development)
     - [Client Project](#client-project)
@@ -41,15 +43,40 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 ![alignment](img/alignment.png)
 
 #### Grid  
-- Design a website with grid line that will make website clearly and attractive. Don't design sloppy at all.  
-- A sample trick changed the the same design looking from clumsy to orderly and polished.
-- Use whitespace to alignment box.
 
-![Grid](img/grid.png)  
+* Design a website with grid line that will make website clearly and attractive. Don't design sloppy at all.  
+* A sample trick changed the the same design looking from clumsy to orderly and polished.
+* Use whitespace to alignment box.
+
+![Grid](img/grid.png)
+
+  
 
 #### How to create grid guideline
+
 ![grid-guirdlind](img/grid-guideline.png)
 
+* Use the same size and the same line
+
+![Use the same size and the same line](img/same-size-same-line.png)
+
+* Use text above the line
+
+![Use text above the line](img/above-the-line.png)
+
+#### Layout is King
+
+1. Alignment
+2. Grid
+3. Visual Hierarchy
+4. Proximity
+
+#### Typography
+
+1. Typeface
+2. Font weight
+3. Font style (Regular, Ireular)
+4. Font (Bold, Oblique)
 
 
 ### Deseign Practise
