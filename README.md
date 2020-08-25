@@ -16,6 +16,7 @@ This course I will learn about wed design and how to create my beautiful website
       - [How to create grid guideline](#how-to-create-grid-guideline)
       - [Layout is King](#layout-is-king)
       - [Typography](#typography)
+      - [Summary](#summary)
     - [Deseign Practise](#deseign-practise)
     - [webflow development](#webflow-development)
     - [Client Project](#client-project)
@@ -50,8 +51,6 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 ![Grid](img/grid.png)
 
-  
-
 #### How to create grid guideline
 
 ![grid-guirdlind](img/grid-guideline.png)
@@ -63,6 +62,12 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 * Use text above the line
 
 ![Use text above the line](img/above-the-line.png)
+
+* font-style
+
+![font-style](img/font-style.png)
+
+![font-light](img/font-light.png)
 
 #### Layout is King
 
@@ -78,6 +83,11 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 3. Font style (Regular, Ireular)
 4. Font (Bold, Oblique)
 
+#### Summary
+
+1. Letter spacing
+2. Line-height
+3. Font weight
 
 ### Deseign Practise
 
