@@ -17,6 +17,7 @@ This course I will learn about wed design and how to create my beautiful website
       - [Layout is King](#layout-is-king)
       - [Typography](#typography)
       - [Summary](#summary)
+    - [Colors](#colors)
     - [Deseign Practise](#deseign-practise)
     - [webflow development](#webflow-development)
     - [Client Project](#client-project)
@@ -88,6 +89,20 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 1. Letter spacing
 2. Line-height
 3. Font weight
+
+> Whenever I write a code or choose the design I have to answer myself.  
+> **Example**  
+> > Why I write code this one   
+> > Why I choose that.   
+> I must explain for everything and must have a reason   
+
+### Colors
+
+1. Choose colors like a pro
+2. saturation  
+![saturation](img/saturation.png)
+3. Select the colors from the background.  
+![Select the colors from the background](img/select-color-from-the-background.png)
 
 ### Deseign Practise
 
