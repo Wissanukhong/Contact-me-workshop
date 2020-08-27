@@ -4,6 +4,14 @@
     /* opacity: 0.3; */
 }
 
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    height: 100vh;
+}
+
 .background-image {
     background-image: url('https://images.unsplash.com/photo-1597858520171-563a8e8b9925?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80');
     height: 100vh;
