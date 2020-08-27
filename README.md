@@ -100,9 +100,16 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 1. Choose colors like a pro
 2. saturation  
+
 ![saturation](img/saturation.png)
+
 3. Select the colors from the background.  
+
 ![Select the colors from the background](img/select-color-from-the-background.png)
+
+4. Image Overlays  
+
+![Image-overlays](img/overlay.png)
 
 ### Deseign Practise
 
