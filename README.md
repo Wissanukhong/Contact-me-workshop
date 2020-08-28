@@ -111,7 +111,22 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 ![Image-overlays](img/overlay.png)
 
+5. Image crop
+  + Exterm crop
+  + Soft crop
+  + color crop
+
+![Soft-crop](img/sfoft-crop.png)
+
 ### Deseign Practise
+
+1. Hero page
+2. Typeface
+3. Colors
+4. Image
+5. colotrs for button
+
+   
 
 ### webflow development
 
