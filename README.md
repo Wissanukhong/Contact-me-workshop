@@ -131,6 +131,7 @@ The beautiful hero section. You just konw how to make it and practice a lot.
     + size
     + weight
   + Whtie space
+  + Overlap
 
 
 
