@@ -119,21 +119,34 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 ![Soft-crop](img/sfoft-crop.png)
 
 The beautiful hero section. You just konw how to make it and practice a lot.  
-- use the good picture
-- use image crop
-- use typeface like a pro 
+
+* use the good picture
+* use image crop
+* use typeface like a pro 
 
 > Don't ruin your design with a bad photo.
 
 6. The design trick
   + Used strongly in this composition is called contrast.
-    + colors
-    + size
-    + weight
+    - colors
+    - size
+    - weight
   + Whtie space
   + Overlap
 
+7. Tension
 
+Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941492#overview)  
+
+![tension](img/tension.png)
+
+8. Brand style guide  
+
+![Brand-style-guide](img/Brand-style-guide.png)
+
+![Brand-style-guide-all](img/Brand-style-guide-all.png)
+
+Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)  
 
 ### Deseign Practise
 
@@ -142,7 +155,6 @@ The beautiful hero section. You just konw how to make it and practice a lot.
 3. Colors
 4. Image
 5. colotrs for button
-
 
 ### webflow development
 
