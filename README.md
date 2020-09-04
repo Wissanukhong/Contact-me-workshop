@@ -148,6 +148,16 @@ Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-d
 
 Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)  
 
+9. Mimic method
+- learn from other design
+- don't create a new thing without learning 
+- mix a lot of thong that you learn and create a new project
+
+**3 Steps to do**
+- Copy
+- Remix
+- create by your own
+
 ### Deseign Practise
 
 1. Hero page
