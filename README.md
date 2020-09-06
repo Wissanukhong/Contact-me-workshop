@@ -149,14 +149,17 @@ Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-d
 Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)  
 
 9. Mimic method
-- learn from other design
-- don't create a new thing without learning 
-- mix a lot of thong that you learn and create a new project
 
-**3 Steps to do**
-- Copy
-- Remix
-- create by your own
+Before design website I must learn about the principles of the art and practice these 3 steps  
+
+1. copy
+2. Remix
+3. create by your own 
+
+Inspiration collection  
+[Land-book](https://land-book.com/)  
+[lapa-ninja](https://www.lapa.ninja/)  
+[dribbble](https://dribbble.com/)  
 
 ### Deseign Practise
 
