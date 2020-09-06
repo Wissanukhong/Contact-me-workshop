@@ -18,6 +18,7 @@ This course I will learn about wed design and how to create my beautiful website
       - [Typography](#typography)
       - [Summary](#summary)
     - [Colors](#colors)
+    - [Style guides](#style-guides)
     - [Deseign Practise](#deseign-practise)
     - [webflow development](#webflow-development)
     - [Client Project](#client-project)
@@ -152,6 +153,7 @@ Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-fr
 
 Before design website I must learn about the principles of the art and practice these 3 steps  
 
+[Link learn in Udemy](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941668#overview)
 01. copy
 
      1. use rulers
@@ -184,11 +186,15 @@ A mood board is board of my inspiration from the website that I like such as
 * frames
 * white spacing
 
+### Style guides
+style guides are the green print to design 
+![style-guides](img/style%20guides.png)
+
 **How to make a mood board**
 
-01. capture a website that you really like.
-02. paste it on figma
-03. write about that picture what are your like and why??
+1.  capture a website that you really like.
+2.  paste it on figma
+3.  write about that picture what are your like and why??
 
 Inspiration collection  
 [Land-book](https://land-book.com/)  
