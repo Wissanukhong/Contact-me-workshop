@@ -117,7 +117,7 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
   + Soft crop
   + color crop
 
-![Soft-crop](img/sfoft-crop.png)
+![Soft-crop](img/soft-crop.png)
 
 The beautiful hero section. You just konw how to make it and practice a lot.  
 
