@@ -30,11 +30,11 @@ This course I will learn about wed design and how to create my beautiful website
 
 Desieng are 
 
-1. rules 
-2. techniques 
-3. creativity 
-4. grindline
-5. Tools 
+01. rules 
+02. techniques 
+03. creativity 
+04. grindline
+05. Tools 
 
 Tools  
 I use [figma](https://www.figma.com/) for design and mockup my website. It is easy to use.  
@@ -72,23 +72,23 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 #### Layout is King
 
-1. Alignment
-2. Grid
-3. Visual Hierarchy
-4. Proximity
+01. Alignment
+02. Grid
+03. Visual Hierarchy
+04. Proximity
 
 #### Typography
 
-1. Typeface
-2. Font weight
+01. Typeface
+02. Font weight
 3. Font style (Regular, Ireular)
 4. Font (Bold, Oblique)
 
 #### Summary
 
-1. Letter spacing
-2. Line-height
-3. Font weight
+01. Letter spacing
+02. Line-height
+03. Font weight
 
 > Whenever I write a code or choose the design I have to answer myself.  
 > **Example**  
@@ -98,20 +98,20 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 ### Colors
 
-1. Choose colors like a pro
-2. saturation  
+01. Choose colors like a pro
+02. saturation  
 
 ![saturation](img/saturation.png)
 
-3. Select the colors from the background.  
+03. Select the colors from the background.  
 
 ![Select the colors from the background](img/select-color-from-the-background.png)
 
-4. Image Overlays  
+04. Image Overlays  
 
 ![Image-overlays](img/overlay.png)
 
-5. Image crop
+05. Image crop
   + Exterm crop
   + Soft crop
   + color crop
@@ -126,7 +126,7 @@ The beautiful hero section. You just konw how to make it and practice a lot.
 
 > Don't ruin your design with a bad photo.
 
-6. The design trick
+06. The design trick
   + Used strongly in this composition is called contrast.
     - colors
     - size
@@ -134,13 +134,13 @@ The beautiful hero section. You just konw how to make it and practice a lot.
   + Whtie space
   + Overlap
 
-7. Tension
+07. Tension
 
 Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941492#overview)  
 
 ![tension](img/tension.png)
 
-8. Brand style guide  
+08. Brand style guide  
 
 ![Brand-style-guide](img/Brand-style-guide.png)
 
@@ -148,26 +148,45 @@ Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-d
 
 Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)  
 
-9. Mimic method
+09. Mimic method
 
 Before design website I must learn about the principles of the art and practice these 3 steps  
 
-1. copy
-2. Remix
-3. create by your own 
+01. copy
+02. Remix
+03. create by your own 
+
+> Give more inspiration with a mood board
+
+10.   Mood board
+
+key images  
+A mood board is board of my inspiration from the website that I like such as 
+
+* coolors
+* font
+* design
+* frames
+* white spacing
+
+**How to make a mood board**
+
+1. capture a website that you really like.
+2. paste it on figma
+3. write about that picture what are your like and why?
 
 Inspiration collection  
 [Land-book](https://land-book.com/)  
-[lapa-ninja](https://www.lapa.ninja/)  
+[lapa-ninja](https://www.lapa.ninja/)   
 [dribbble](https://dribbble.com/)  
 
 ### Deseign Practise
 
-1. Hero page
-2. Typeface
-3. Colors
-4. Image
-5. colotrs for button
+01. Hero page
+02. Typeface
+03. Colors
+04. Image
+05. colotrs for button
 
 ### webflow development
 
