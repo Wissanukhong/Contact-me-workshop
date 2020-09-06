@@ -153,8 +153,23 @@ Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-fr
 Before design website I must learn about the principles of the art and practice these 3 steps  
 
 01. copy
-02. Remix
-03. create by your own 
+
+     1. use rulers
+     2. font
+
+          01.    style
+          02.    size
+          03.    weight
+          04.    white space
+          05.    line height
+
+     3. Pictures
+     4. Button
+     5. Background 
+     6. colors theme design 
+
+02.  Remix
+03.  create by your own 
 
 > Give more inspiration with a mood board
 
@@ -171,9 +186,9 @@ A mood board is board of my inspiration from the website that I like such as
 
 **How to make a mood board**
 
-1. capture a website that you really like.
-2. paste it on figma
-3. write about that picture what are your like and why?
+01. capture a website that you really like.
+02. paste it on figma
+03. write about that picture what are your like and why??
 
 Inspiration collection  
 [Land-book](https://land-book.com/)  
