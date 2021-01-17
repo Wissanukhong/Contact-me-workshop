@@ -20,8 +20,7 @@ This course I will learn about wed design and how to create my beautiful website
     - [Colors](#colors)
     - [Style guides](#style-guides)
     - [Deseign Practise](#deseign-practise)
-    - [webflow development](#webflow-development)
-    - [Client Project](#client-project)
+    - [The 3 steps must do before design](#the-3-steps-must-do-before-design)
     - [Freelancing](#freelancing)
     - [Advanced](#advanced)
 
@@ -29,27 +28,27 @@ This course I will learn about wed design and how to create my beautiful website
 
 ### The secert of good design
 
-Desieng are 
+Desieng are
 
-01. rules 
-02. techniques 
-03. creativity 
-04. grindline
-05. Tools 
+1.  rules
+2.  techniques
+3.  creativity
+4.  grindline
+5.  Tools
 
 Tools  
 I use [figma](https://www.figma.com/) for design and mockup my website. It is easy to use.  
 I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
-#### Alignment  
+#### Alignment
 
 ![alignment](img/alignment.png)
 
-#### Grid  
+#### Grid
 
-* Design a website with grid line that will make website clearly and attractive. Don't design sloppy at all.  
-* A sample trick changed the the same design looking from clumsy to orderly and polished.
-* Use whitespace to alignment box.
+- Design a website with grid line that will make website clearly and attractive. Don't design sloppy at all.
+- A sample trick changed the the same design looking from clumsy to orderly and polished.
+- Use whitespace to alignment box.
 
 ![Grid](img/grid.png)
 
@@ -57,15 +56,15 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 ![grid-guirdlind](img/grid-guideline.png)
 
-* Use the same size and the same line
+- Use the same size and the same line
 
 ![Use the same size and the same line](img/same-size-same-line.png)
 
-* Use text above the line
+- Use text above the line
 
 ![Use text above the line](img/above-the-line.png)
 
-* font-style
+- font-style
 
 ![font-style](img/font-style.png)
 
@@ -73,88 +72,90 @@ I use [Webflow](https://webflow.com/) to create my website by design from figma.
 
 #### Layout is King
 
-01. Alignment
-02. Grid
-03. Visual Hierarchy
-04. Proximity
+1.  Alignment
+2.  Grid
+3.  Visual Hierarchy
+4.  Proximity
 
 #### Typography
 
-01. Typeface
-02. Font weight
-3. Font style (Regular, Ireular)
-4. Font (Bold, Oblique)
+1.  Typeface
+2.  Font weight
+3.  Font style (Regular, Ireular)
+4.  Font (Bold, Oblique)
 
 #### Summary
 
-01. Letter spacing
-02. Line-height
-03. Font weight
+1.  Letter spacing
+2.  Line-height
+3.  Font weight
 
 > Whenever I write a code or choose the design I have to answer myself.  
-> **Example**  
-> > Why I write code this one   
-> > Why I choose that.   
-> I must explain for everything and must have a reason   
+> **Example**
+>
+> > Why I write code this one  
+> > Why I choose that.  
+> > I must explain for everything and must have a reason
 
 ### Colors
 
-01. Choose colors like a pro
-02. saturation  
+1.  Choose colors like a pro
+2.  saturation
 
 ![saturation](img/saturation.png)
 
-03. Select the colors from the background.  
+3.  Select the colors from the background.
 
 ![Select the colors from the background](img/select-color-from-the-background.png)
 
-04. Image Overlays  
+4.  Image Overlays
 
 ![Image-overlays](img/overlay.png)
 
-05. Image crop
-  + Exterm crop
-  + Soft crop
-  + color crop
+5.  Image crop
+
+- Exterm crop
+- Soft crop
+- color crop
 
 ![Soft-crop](img/soft-crop.png)
 
-The beautiful hero section. You just konw how to make it and practice a lot.  
+The beautiful hero section. You just konw how to make it and practice a lot.
 
-* use the good picture
-* use image crop
-* use typeface like a pro 
+- use the good picture
+- use image crop
+- use typeface like a pro
 
 > Don't ruin your design with a bad photo.
 
-06. The design trick
-  + Used strongly in this composition is called contrast.
-    - colors
-    - size
-    - weight
-  + Whtie space
-  + Overlap
+6.  The design trick
 
-07. Tension
+- Used strongly in this composition is called contrast.
+  - colors
+  - size
+  - weight
+- Whtie space
+- Overlap
 
-Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941492#overview)  
+7.  Tension
+
+Ref : Lecture [tension](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941492#overview)
 
 ![tension](img/tension.png)
 
-08. Brand style guide  
+8.  Brand style guide
 
 ![Brand-style-guide](img/Brand-style-guide.png)
 
 ![Brand-style-guide-all](img/Brand-style-guide-all.png)
 
-Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)  
+Ref : Lecture [consistency](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941580#overview)
 
-09. Mimic method
+9.  Mimic method
 
-Before design website I must learn about the principles of the art and practice these 3 steps  
+Before design website I must learn about the principles of the art and practice these 3 steps
 
-[Link learn in Udemy](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941668#overview)
-01. copy
+[Link learn in Udemy](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17941668#overview) 01. copy
 
      1. use rulers
      2. font
@@ -167,27 +168,28 @@ Before design website I must learn about the principles of the art and practice 
 
      3. Pictures
      4. Button
-     5. Background 
-     6. colors theme design 
+     5. Background
+     6. colors theme design
 
-02.  Remix
-03.  create by your own 
+2.  Remix
+3.  create by your own
 
 > Give more inspiration with a mood board
 
-10.   Mood board
+10. Mood board
 
 key images  
-A mood board is board of my inspiration from the website that I like such as 
+A mood board is board of my inspiration from the website that I like such as
 
-* coolors
-* font
-* design
-* frames
-* white spacing
+- coolors
+- font
+- design
+- frames
+- white spacing
 
 ### Style guides
-style guides are the green print to design 
+
+style guides are the green print to design
 ![style-guides](img/style%20guides.png)
 
 **How to make a mood board**
@@ -198,20 +200,22 @@ style guides are the green print to design
 
 Inspiration collection  
 [Land-book](https://land-book.com/)  
-[lapa-ninja](https://www.lapa.ninja/)   
-[dribbble](https://dribbble.com/)  
+[lapa-ninja](https://www.lapa.ninja/)  
+[dribbble](https://dribbble.com/)
 
 ### Deseign Practise
 
-01. Hero page
-02. Typeface
-03. Colors
-04. Image
-05. colotrs for button
+1. Hero page
+2. Typeface
+3. Colors
+4. Image
+5. colotrs for button
 
-### webflow development
+### The 3 steps must do before design
 
-### Client Project
+1. Project Brief (https://www.figma.com/file/knWvxdB28N1R2Qpu3lXbw9/Practice%3A-Team-App/duplicate)
+2. Moodboard
+3. Wrieframe
 
 ### Freelancing
 
