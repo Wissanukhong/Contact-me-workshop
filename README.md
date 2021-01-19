@@ -21,7 +21,7 @@ This course I will learn about wed design and how to create my beautiful website
     - [Style guides](#style-guides)
     - [Deseign Practise](#deseign-practise)
     - [The 3 steps must do before design](#the-3-steps-must-do-before-design)
-    - [Freelancing](#freelancing)
+    - [Link to remember](#link-to-remember)
     - [Advanced](#advanced)
 
 [Sumarry for figma lectrue](https://docs.google.com/presentation/d/1njZNw-zXzvnaDuIat72FCTy-FIiOi-iSMCm18PeQ5Bw/edit?usp=sharing)
@@ -214,9 +214,17 @@ Inspiration collection
 ### The 3 steps must do before design
 
 1. Project Brief (https://www.figma.com/file/knWvxdB28N1R2Qpu3lXbw9/Practice%3A-Team-App/duplicate)
+   1. What are we builing
+   2. What are the goals
+   3. Who's the target audience
+   4. What's the desired look & feel of the site
+   5. Any specific functionality
 2. Moodboard
 3. Wrieframe
 
-### Freelancing
+### Link to remember
+
+- [How to create wireframe with figma tools kit](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17943198#overview)
+- [How to design with figma](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/learn/lecture/17944210#overview)
 
 ### Advanced
